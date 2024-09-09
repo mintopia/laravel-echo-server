@@ -1,5 +1,7 @@
 # Laravel Echo Server
 
+**DEPRECATED** - Please check out [Laravel Reverb](https://reverb.laravel.com/) instead.
+
 ## Introduction
 
 This is a simple docker container for the [Laravel Echo Server](https://github.com/tlaverdure/laravel-echo-server).
